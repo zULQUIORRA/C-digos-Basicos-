@@ -24,7 +24,7 @@
             <div>
                 <label> Sexo:</label>
                 <input type="radio" id="sexo" name="sexo" value="f"/> feminino
-                <input type="radio" id="sexo" name="sexo" value="m"/> masculino
+                <input type="radio" id="sexo" name="sexo" checked value="m"/> masculino
             </div>
                  <labe> Senha:</label>
                  <input type="password" id="x" name="senha" />
